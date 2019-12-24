@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81f7df9c-7a2e-4819-a724-b11250e75a12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/hangman-body/Body.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsbtTreeLayoutManager">
@@ -102,8 +103,16 @@
       <updated>1577038967110</updated>
       <workItem from="1577038968968" duration="9692000" />
       <workItem from="1577088547333" duration="30795000" />
-      <workItem from="1577198500051" duration="1170000" />
+      <workItem from="1577198500051" duration="4193000" />
     </task>
+    <task id="LOCAL-00001" summary="first-commit">
+      <created>1577199712041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577199712041</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +129,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first-commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first-commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" key="#ESLint" timestamp="1577139602489">
       <screen x="0" y="0" width="1280" height="680" />
@@ -129,26 +142,34 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1577047892301" />
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1577202894896">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577202894896" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1577047909365">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1577047909365" />
-    <state width="1259" height="82" key="GridCell.Tab.0.bottom" timestamp="1577199399313">
+    <state width="1259" height="82" key="GridCell.Tab.0.bottom" timestamp="1577202783648">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="82" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577199399313" />
-    <state width="1259" height="82" key="GridCell.Tab.0.center" timestamp="1577199399313">
+    <state width="1259" height="82" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577202783648" />
+    <state width="1259" height="82" key="GridCell.Tab.0.center" timestamp="1577202783646">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="82" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577199399313" />
-    <state width="1259" height="82" key="GridCell.Tab.0.left" timestamp="1577199399313">
+    <state width="1259" height="82" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577202783646" />
+    <state width="1259" height="82" key="GridCell.Tab.0.left" timestamp="1577202783646">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="82" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577199399313" />
-    <state width="1259" height="82" key="GridCell.Tab.0.right" timestamp="1577199399313">
+    <state width="1259" height="82" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577202783646" />
+    <state width="1259" height="82" key="GridCell.Tab.0.right" timestamp="1577202783647">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="82" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577199399313" />
+    <state width="1259" height="82" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577202783647" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1577199755935">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1577199755935" />
     <state x="507" y="207" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1577048142514">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
