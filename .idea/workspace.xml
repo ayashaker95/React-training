@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81f7df9c-7a2e-4819-a724-b11250e75a12" name="Default Changelist" comment="">
+    <list default="true" id="81f7df9c-7a2e-4819-a724-b11250e75a12" name="Default Changelist" comment="fix styling issues">
+      <change afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/container/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hangman-body/Body.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hangman-body/Body.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="hangman" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,7 +66,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ashaker\WebstormProjects\hangman-app\src\store" />
       <recent name="C:\Users\ashaker\WebstormProjects\hangman-app\src" />
+      <recent name="C:\Users\ashaker\WebstormProjects\hangman-app\src\reducers" />
       <recent name="C:\Users\ashaker\WebstormProjects\hangman-app\src\container" />
     </key>
   </component>
@@ -103,7 +111,11 @@
       <updated>1577038967110</updated>
       <workItem from="1577038968968" duration="9692000" />
       <workItem from="1577088547333" duration="30795000" />
-      <workItem from="1577198500051" duration="4193000" />
+      <workItem from="1577198500051" duration="4968000" />
+      <workItem from="1577950665400" duration="1086000" />
+      <workItem from="1578312651907" duration="3480000" />
+      <workItem from="1578399933527" duration="34959000" />
+      <workItem from="1578662406737" duration="7982000" />
     </task>
     <task id="LOCAL-00001" summary="first-commit">
       <created>1577199712041</created>
@@ -112,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577199712041</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix styling issues">
+      <created>1577202912165</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577202912165</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +142,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -131,7 +152,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first-commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first-commit" />
+    <MESSAGE value="fix styling issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix styling issues" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" key="#ESLint" timestamp="1577139602489">
@@ -142,34 +164,46 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1577047892301" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1577202894896">
+    <state x="2492" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578475628298">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2492" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1600.860/-1920.0.1280.680@1920.0.1600.860" timestamp="1578475628298" />
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1578687702627">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577202894896" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578687702627" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1577047909365">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1577047909365" />
-    <state width="1259" height="82" key="GridCell.Tab.0.bottom" timestamp="1577202783648">
+    <state width="1899" height="258" key="GridCell.Tab.0.bottom" timestamp="1578555741391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="82" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577296086867" />
+    <state width="1899" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860/-1920.0.1280.680@0.0.1920.1040" timestamp="1578555741391" />
+    <state width="1579" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860/-1920.0.1280.680@1920.0.1600.860" timestamp="1578413687929" />
+    <state width="1899" height="258" key="GridCell.Tab.0.center" timestamp="1578555741391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="82" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577296086867" />
+    <state width="1899" height="258" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860/-1920.0.1280.680@0.0.1920.1040" timestamp="1578555741391" />
+    <state width="1579" height="204" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860/-1920.0.1280.680@1920.0.1600.860" timestamp="1578413687929" />
+    <state width="1899" height="258" key="GridCell.Tab.0.left" timestamp="1578555741391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="82" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577296086867" />
+    <state width="1899" height="258" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860/-1920.0.1280.680@0.0.1920.1040" timestamp="1578555741391" />
+    <state width="1579" height="204" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860/-1920.0.1280.680@1920.0.1600.860" timestamp="1578413687928" />
+    <state width="1899" height="258" key="GridCell.Tab.0.right" timestamp="1578555741391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1259" height="82" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577296086867" />
+    <state width="1899" height="258" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860/-1920.0.1280.680@0.0.1920.1040" timestamp="1578555741391" />
+    <state width="1579" height="204" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860/-1920.0.1280.680@1920.0.1600.860" timestamp="1578413687929" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1578687645269">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="82" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1577202783648" />
-    <state width="1259" height="82" key="GridCell.Tab.0.center" timestamp="1577202783646">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="82" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1577202783646" />
-    <state width="1259" height="82" key="GridCell.Tab.0.left" timestamp="1577202783646">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="82" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1577202783646" />
-    <state width="1259" height="82" key="GridCell.Tab.0.right" timestamp="1577202783647">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1259" height="82" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1577202783647" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1577199755935">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1577199755935" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1578687645269" />
     <state x="507" y="207" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1577048142514">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

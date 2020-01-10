@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, {Component} from "react";
 import "./Body.scss";
 import step0 from "../../images/0.jpg";
 import step2 from "../../images/2.jpg";
@@ -7,16 +7,17 @@ import step4 from "../../images/4.jpg";
 import step5 from "../../images/5.jpg";
 import step6 from "../../images/6.jpg";
 
-class Body extends Component{
+class Body extends Component {
     static defaultProps = {
-        images: [step0,step2, step3, step4, step5, step6]
+        images: [step0, step2, step3, step4, step5, step6]
     };
+
     constructor(props) {
         super(props);
-        console.log(props);
     }
+
     render() {
-        return(
+        return (
             <div className={"Body"}>
                 <nav className='nav-content'>
                     <span className='mistake-number'>
@@ -30,4 +31,5 @@ class Body extends Component{
         );
     }
 }
+
 export default Body;
